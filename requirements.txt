@@ -1,0 +1,3 @@
+testresources
+tensorflow
+aitextgen

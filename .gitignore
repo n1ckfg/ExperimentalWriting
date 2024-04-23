@@ -1,0 +1,6 @@
+nick_corpus_combo.txt
+/aitextgen/
+/trained_model/
+*.pyc
+/__pycache__/
+.DS_Store
