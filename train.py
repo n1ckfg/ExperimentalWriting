@@ -21,7 +21,7 @@ model_selection="gpt-neo-125M" # GPT-Neo Pytorch, requires 12GB VRAM
 # Other custom Pytorch...
 ai = aitextgen(model="base_models/" + model_selection, to_gpu=True) # gpt2-medium
 
-file_name = "nick_corpus_combo.txt"
+file_name = "input.txt"
 
 ai.train(file_name,
          line_by_line=False,
