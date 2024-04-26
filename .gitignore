@@ -1,4 +1,5 @@
 nick_corpus_combo.txt
+input.txt
 /aitextgen/
 /trained_model/
 *.pyc
