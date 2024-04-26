@@ -4,3 +4,4 @@ nick_corpus_combo.txt
 *.pyc
 /__pycache__/
 .DS_Store
+/base_models/gpt*/
